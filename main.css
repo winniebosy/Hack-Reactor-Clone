@@ -1,3 +1,18 @@
 body{
     font-family:sans-serif;
 }
+/* navigation styling stars here */
+.navbar{
+    border: 2px solid red;
+    background-color: #ffffff;
+    font-size: 0.9em;
+    
+}
+/* navigation bar toogler styling */
+.navbar-toggler{
+   border: 2px solid #0090d9;
+}
+
+
+
+/* navigation styling ends here */
