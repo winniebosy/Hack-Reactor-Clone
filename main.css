@@ -10,8 +10,32 @@ body{
 }
 /* navigation bar toogler styling */
 .navbar-toggler{
-   border: 2px solid #0090d9;
+   /* border: 2px solid #0090d9; */
 }
+.navbar-nav{
+    
+    margin-left: 8em;
+}
+a.nav-link:link{
+    background-color: yellowgreen;
+    color: blue;
+}
+a.nav-link:visited{
+    background-color: yellowgreen;
+    color: blue;
+}
+a.nav-link:hover{
+    background-color: yellowgreen;
+    color: blue;
+}
+a.nav-link:active{
+    background-color: yellowgreen;
+    color: blue;
+}
+.title-link{
+    color:black;
+}
+   
 
 
 
