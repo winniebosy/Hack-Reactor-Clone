@@ -17,19 +17,21 @@ body{
     margin-left: 8em;
 }
 a.nav-link:link{
-    background-color: yellowgreen;
+    font-size:0.95em;
     color: blue;
+    border:2px solid red;
+    margin: 0.2em;
 }
 a.nav-link:visited{
-    background-color: yellowgreen;
+    
     color: blue;
 }
 a.nav-link:hover{
-    background-color: yellowgreen;
+   
     color: blue;
 }
 a.nav-link:active{
-    background-color: yellowgreen;
+    
     color: blue;
 }
 .title-link{
