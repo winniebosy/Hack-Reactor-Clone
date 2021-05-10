@@ -36,9 +36,10 @@ a.nav-link:active{
 .title-link{
     color: #000000;
     }
-.btn-primary{
+.apply-btn{
     padding: 0.55em;
     font-size:1em;
+    color: #ffffff;
    
 }
    
