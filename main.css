@@ -3,9 +3,8 @@ body{
 }
 /* navigation styling stars here */
 .navbar{
-    border: 2px solid red;
     background-color: #ffffff;
-    font-size: 0.9em;
+    font-size: 0.85em;
     
 }
 /* navigation bar toogler styling */
@@ -39,7 +38,7 @@ a.nav-link:active{
 .dropdown-menu{
        width: 40vw;
         height: auto;
-        margin-bottom: 10em;
+        
        
     }
     .menu-1{
@@ -49,7 +48,7 @@ a.nav-link:active{
 
     /* module title styling */
 .module-title{
-    font-size:0.8em;
+    font-size:0.75em;
     margin: 1em 1.5em 1em 2em;
     font-weight: bolder;
     border-bottom: 0.3px solid #D3D3D3;
