@@ -36,9 +36,11 @@ a.nav-link:active{
 .title-link{
     color: #000000;
     }
-    .dropdown-menu{
+.dropdown-menu{
        width: 40vw;
         height: auto;
+        margin-bottom: 10em;
+       
     }
     .menu-1{
         width: 20vw;
@@ -69,7 +71,7 @@ a.nav-link:active{
    width: 15vw;
    height: auto;
 }
-
+/* styling for all dropdown menus end here */
   
 /* apply button styling */
 .apply-btn{
