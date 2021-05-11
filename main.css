@@ -40,6 +40,11 @@ a.nav-link:active{
        width: 40vw;
         height: auto;
     }
+    .menu-1{
+        width: 20vw;
+         height: auto;
+     }
+
     /* module title styling */
 .module-title{
     font-size:0.8em;
@@ -48,22 +53,29 @@ a.nav-link:active{
     border-bottom: 0.3px solid #D3D3D3;
     padding: 0.4em  0em 1em;
 }
+/* styling for all dropdown menu items */
 .dropdown-item{
   color:#979797; 
   margin: 1em 1.5em 1em 2em;
    border-bottom: 0.3px solid #D3D3D3;
    font-size: 0.8em;
    width: 35vw;
-   height: auto;
-   
+   height: auto;   
 }
+.menu-2{
+    margin: 1em 1.5em 1em 2em;
+   border-bottom: 0.3px solid #D3D3D3;
+   font-size: 0.8em;
+   width: 15vw;
+   height: auto;
+}
+
+  
 /* apply button styling */
 .apply-btn{
     padding: 0.55em;
     font-size:1em;
-    color: #ffffff;
-
-   
+    color: #ffffff;  
 }
    
 
