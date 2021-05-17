@@ -9,10 +9,9 @@ body{
 }
 /* navigation bar toggler styling */
 
-
+/* hamburger menu */
 .navbar-toggler-icon{
     background-image: url('images/hambuger-menu.PNG');
- 
 }
 
 .navbar-collapse{
