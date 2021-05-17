@@ -14,10 +14,11 @@ body{
     background-image: url('images/hambuger-menu.PNG');
 }
 
-.navbar-collapse{
-    border:none;
-}
+  
 
+.title-link{
+    margin-top: 1em;
+}
 
 .navbar-nav{
     
@@ -42,6 +43,8 @@ a.nav-link:active{
 }
 .title-link{
     color: #000000;
+    margin:0.2em;
+   
     }
 .dropdown-menu{
        width: 40vw;
