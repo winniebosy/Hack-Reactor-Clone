@@ -7,10 +7,9 @@ body{
     font-size: 0.85em;
     
 }
-/* navigation bar toogler styling */
-button.navbar-toggler{
-    outline: none;
-}
+/* navigation bar toggler styling */
+
+
 .navbar-toggler-icon{
     background-image: url('images/hambuger-menu.PNG');
  
@@ -43,7 +42,7 @@ a.nav-link:active{
     color:#0000ff;
 }
 .title-link{
-    color: #00000;
+    color: #000000;
     }
 .dropdown-menu{
        width: 40vw;
