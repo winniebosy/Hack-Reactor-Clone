@@ -2,6 +2,11 @@ body{
     font-family:sans-serif;
 }
 /* navigation styling stars here */
+.logo{
+    width: 100%;
+    height:auto;
+    
+}
 .navbar{
     background-color: #ffffff;
     font-size: 0.85em;
@@ -15,80 +20,20 @@ body{
 }
 
   
+/* styling the navigation bar that holds all the items */
 
-.title-link{
-    margin-top: 1em;
-}
 
 .navbar-nav{
+    margin:auto;
     
-    margin-left: 8em;
-}
-a.nav-link:link{
-    font-size:0.95em;
-    color: #0000ff;
-    margin: 0.2em;
-}
-a.nav-link:visited{
     
-    color: #0000ff;
+     
 }
-a.nav-link:hover{
-   
-    color: #0000ff;
+.nav-item{
+    font-size:0.9em;
+    padding:0.5em;
 }
-a.nav-link:active{
-    
-    color:#0000ff;
-}
-.title-link{
-    color: #000000;
-    margin:0.2em;
-   
-    }
-.dropdown-menu{
-       width: 40vw;
-        height: auto;
-        
-       
-    }
-    .menu-1{
-        width: 20vw;
-         height: auto;
-     }
 
-    /* module title styling */
-.module-title{
-    font-size:0.75em;
-    margin: 1em 1.5em 1em 2em;
-    font-weight: bolder;
-    border-bottom: 0.3px solid #D3D3D3;
-    padding: 0.4em  0em 1em;
-}
-/* styling for all dropdown menu items */
-.dropdown-item{
-  color:#979797; 
-  margin: 1em 1.5em 1em 2em;
-   border-bottom: 0.3px solid #D3D3D3;
-   font-size: 0.8em;
-   width: 35vw;
-   height: auto;   
-}
-.menu-2{
-    margin: 1em 1.5em 1em 2em;
-   border-bottom: 0.3px solid #D3D3D3;
-   font-size: 0.8em;
-   width: 15vw;
-   height: auto;
-}
-/* styling for all dropdown menus end here */
-  
-/* apply button styling */
-.apply-btn{
-    padding: 0.55em;
-    font-size:1em;
-    color: #ffffff;  
-}
 
 /* navigation styling ends here */
 
