@@ -10,7 +10,7 @@ body{
 }
 .navbar{
     background-color: #ffffff;
-    font-size: 0.85em;
+    
     
 }
 /* navigation bar toggler styling */
@@ -31,8 +31,28 @@ body{
      
 }
 .nav-item{
-    font-size:1.1em;
+    font-size:0.9em;
     padding:0.5em;
+}
+
+.dropdown-menu{
+padding: 1.5em 2.5em 2em 2em;
+box-shadow: #d2cccc;
+
+}
+.module-title{
+ font-size:0.9rem;
+ border-bottom: 2px solid rgb(142, 138, 138);
+ padding-bottom: 1em;
+}
+.dropdown-item{
+    font-size: 0.85em;
+    border-bottom: 2px solid rgb(142, 138, 138);
+    padding-top: 0.9em;
+}
+.apply-btn{
+    font-size:0.9em;
+    padding:0.2em;
 }
 
 /* navigation styling ends here */
