@@ -2,6 +2,9 @@ body{
     font-family:sans-serif;
 }
 /* navigation styling stars here */
+nav{
+    position: sticky;
+}
 .logo{
     width: 100%;
     height:auto;
