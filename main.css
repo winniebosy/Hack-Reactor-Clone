@@ -59,6 +59,13 @@ box-shadow: #d2cccc;
     font-size:0.9em;
     padding:0.2em;
 }
+.container{
+    border:2px solid red;
+   max-width: 100%;
+   height: autO;
+   background:url('images/');
+   
+}
 
 /* navigation styling ends here */
 
