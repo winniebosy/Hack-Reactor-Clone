@@ -79,12 +79,12 @@ box-shadow: #d2cccc;
     
  }
  .main-title{
-
      padding: 3em;
-     border:2px solid red;
+     line-height: 1.5em;
+     
  }
  .sub-title{
      padding:0.2em;
-     border:2px solid green;
      margin-top: -5em;
+     font-size:1.2em;
  }
