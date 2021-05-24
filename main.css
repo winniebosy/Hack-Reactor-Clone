@@ -2,7 +2,9 @@ body{
     font-family:sans-serif;
 }
 /* navigation styling stars here */
-
+.navbar{
+    position:sticky;
+    
 }
 .logo{
     width: 100%;
@@ -65,7 +67,9 @@ box-shadow: #d2cccc;
 
 .hero{
     
-    background:url('images/heroimageHackReactor.jpg');
+
+    background: -webkit-linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.5)),url('images/heroimageHackReactor.jpg');
+    background: linear-gradient(rgba(29, 38, 113, 0.8), rgba(195, 55, 100, 0.5)),url('images/heroimageHackReactor.jpg');
     background-position:center center;
     background-attachment:fixed;
     background-repeat: no-repeat;
@@ -73,4 +77,14 @@ box-shadow: #d2cccc;
     height:100vh;
 
     
+ }
+ .main-title{
+
+     padding: 3em;
+     border:2px solid red;
+ }
+ .sub-title{
+     padding:0.2em;
+     border:2px solid green;
+     margin-top: -5em;
  }
