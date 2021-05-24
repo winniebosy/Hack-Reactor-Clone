@@ -96,3 +96,8 @@ box-shadow: #d2cccc;
  .apply-btn{
      padding: 0.3em;
  }
+ /* rating section */
+ .rating{
+     background:#d8d8d8;
+ }
+ /* rating section ends here */
