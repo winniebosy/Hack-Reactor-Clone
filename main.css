@@ -99,5 +99,10 @@ box-shadow: #d2cccc;
  /* rating section */
  .rating{
      background:#d8d8d8;
+     
+ }
+ .container-switch{
+     margin-top:4em;
+     border:2px solid red;
  }
  /* rating section ends here */
