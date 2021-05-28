@@ -111,3 +111,25 @@ border-top: 1px solid rgba(00,0,255);
 
  }
  /* rating section ends here */
+ /* container area section */
+ .container-announcement{
+
+ background-color:#6d7278;
+ 
+
+}
+.subsection-title{
+    padding:1em;
+    font-size:1.5em;
+    color:rgba(255,255,255);
+}
+.information{
+    margin: 0.7em;
+    padding: 0.5em;
+    color:rgba(255,255,255);
+
+}
+.learnmore-btn{
+     margin:1em;
+}
+ /* jumbotron section ends here */
