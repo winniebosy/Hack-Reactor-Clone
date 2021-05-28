@@ -42,6 +42,8 @@ body{
 .dropdown-menu{
 padding: 1.5em 2.5em 2em 2em;
 box-shadow: #d2cccc;
+margin-top:8em;
+border-top: 1px solid rgba(00,0,255);
 
 }
 .module-title{
@@ -103,6 +105,5 @@ box-shadow: #d2cccc;
  }
  .container-switch{
      margin-top:4em;
-     border:2px solid red;
  }
  /* rating section ends here */
