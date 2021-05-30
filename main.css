@@ -3,7 +3,6 @@ body{
 }
 /* navigation styling stars here */
 .navbar{
-    position:sticky;
     
 }
 .logo{
@@ -149,3 +148,15 @@ border-top: 1px solid rgba(00,0,255);
  }
 
  /*graduants-workplaces section ends here  */
+
+ /* about-title ends here*/
+ .about-bootcamp{
+     font-size:0.9em;
+ }
+ 
+ .about-bootcamp{
+     margin:1em;
+     border:5px solid red;
+ }
+ 
+ /* about title section ends here */
