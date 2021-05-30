@@ -122,14 +122,30 @@ border-top: 1px solid rgba(00,0,255);
     padding:1em;
     font-size:1.5em;
     color:rgba(255,255,255);
+    font-weight:bolder;
+    text-align:center;
 }
 .information{
     margin: 0.7em;
     padding: 0.5em;
     color:rgba(255,255,255);
-
+    text-align:center;
 }
+
+
 .learnmore-btn{
-     margin:1em;
+     margin-bottom: 1em;
 }
  /* jumbotron section ends here */
+
+ /* graduants-workplaces section */
+ .graduants-workplaces,.graduants-title, .quotation{
+     text-align:center;
+     
+ }
+ .company-logo{
+     margin:0.6em;
+     padding:0.6em;
+ }
+
+ /*graduants-workplaces section ends here  */
