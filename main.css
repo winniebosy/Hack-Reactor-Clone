@@ -172,12 +172,25 @@ border-top: 1px solid rgba(00,0,255);
      margin: 3em;
  }
  /* bootcamp section ends here */
-
+.cards{
+    margin:2em;
+    padding:0.5em;
+    column-gap: 1.7em;
+    
+    
+}
  .card{
-     max-width:18em;
+     max-width:15.3em;
      height: auto;
+     padding:0.5em;
+     margin-bottom:0.2em;
+     box-shadow: 5px 10px  #d2cccc;
+    
+     
  }
- 
+ .card-img-top{
+     max-height: 50%;
+ }
 
  
  
