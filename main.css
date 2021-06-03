@@ -184,7 +184,8 @@ border-top: 1px solid rgba(00,0,255);
      height: auto;
      padding:0.5em;
      margin-bottom:0.2em;
-     box-shadow: 5px 10px  #d2cccc;
+     border:1px;
+     box-shadow: 5px 10px 8px 4px #d2cccc;
     
      
  }
